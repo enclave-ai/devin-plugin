@@ -1,0 +1,24 @@
+{
+  "name": "enclave",
+  "displayName": "Enclave",
+  "version": "1.0.0",
+  "description": "Fix and triage the vulnerabilities Enclave's security agents verify, track your security posture, and check PRs before merge",
+  "shortDescription": "Verified security findings and PR checks",
+  "author": {
+    "name": "Enclave",
+    "email": "support@enclave.ai"
+  },
+  "homepage": "https://enclave.ai",
+  "repository": "https://github.com/enclave-ai/devin-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "Security",
+    "Development Tools"
+  ],
+  "mcpServers": {
+    "enclave": {
+      "url": "https://mcp.enclave.ai"
+    }
+  }
+}
